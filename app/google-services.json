@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "564840133030",
+    "project_id": "jesusislordradio-5b6a0",
+    "storage_bucket": "jesusislordradio-5b6a0.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:564840133030:android:88d8f97c4911752c029f67",
+        "android_client_info": {
+          "package_name": "com.smoothradio.jesusislordradio"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "564840133030-bgm48ntvtrf129vrbvjnqia5sfi0lrfv.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBNXchxGK4zgLsi4pvuPa-M3i_BdoV4bT0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "564840133030-bgm48ntvtrf129vrbvjnqia5sfi0lrfv.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
